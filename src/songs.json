@@ -1,353 +1,271 @@
 {
 
     "songs":
-      {
+      {         
         
-      "Intro":{"title":"Intro","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":1, "length":17,"features":[""]},
+      "High For This":{"title":"High For This","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":1, "length":249,"features":[""]},
       
-      "We Don't Care": {"title":"We Don't Care","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":2, "length":239,"features":[""]},
+      "What You Need": {"title":"What You Need","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":2, "length":206,"features":[""]},
         
-      "Graduation Day":{"title":"Graduation Day","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":3, "length":80,"features":[""]},
+      "House Of Balloons / Glass Table Girls":{"title":"House Of Balloons / Glass Table Girls","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":3, "length":407,"features":[""]},
         
-      "All Falls Down":{"title":"All Falls Down","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":4, "length":223,"features":["Syleena Johnson"]},
+      "The Morning":{"title":"The Morning","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":4, "length":314,"features":[""]},
         
-      "I'll Fly Away":{"title":"I'll Fly Away","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":5, "length":69,"features":[""]},
+      "Wicked Games":{"title":"Wicked Games","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":5, "length":325,"features":[""]},
           
-      "Spaceship":{"title":"Spaceship","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":6, "length":324,"features":["GLC","Consequence"]},
+      "The Party & The After Party":{"title":"The Party & The After Party","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":6, "length":459,"features":[""]},
         
-      "Jesus Walks":{"title":"Jesus Walks","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":7, "length":193,"features":[""]},
+      "Coming Down":{"title":"Coming Down","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":7, "length":295,"features":[""]},
         
-      "Never Let Me Down":{"title":"Never Let Me Down","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":8, "length":324,"features":["Jay-Z", "J. Ivy"]},
+      "Loft Music":{"title":"Loft Music","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":8, "length":363,"features":[""]},
           
-      "Get Em High":{"title":"Get Em High","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":9, "length":289,"features":["Talib Kweli","Common"]},
+      "The Knowing":{"title":"The Knowing","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":9, "length":342,"features":[""]},
           
-      "Workout Plan":{"title":"Workout Plan","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":10, "length":46,"features":[""]},
+      "Twenty Eight":{"title":"Twenty Eight","album":1,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Weeknd_-_House_of_Balloons.png",
+          "track":10, "length":258,"features":[""]},
           
-      "The New Workout Plan":{"title":"The New Workout Plan","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":11, "length":322,"features":[""]},
-          
-      "Slow Jamz":{"title":"Slow Jamz","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":12, "length":316,"features":["Twista", "Jamie Foxx"]},
-          
-      "Breathe In Breathe Out":{"title":"Breathe In Breathe Out","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":13, "length":246,"features":["Ludacris"]},
-          
-      "School Spirit Skit 1":{"title":"School Spirit Skit 1","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":14, "length":78,"features":[""]},
-          
-      "School Spirit":{"title":"School Spirit","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":15, "length":182,"features":[""]},
-          
-      "School Spirit Skit 2":{"title":"School Spirit Skit 2","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":16, "length":43,"features":[""]},
-          
-      "Lil Jimmy Skit":{"title":"Lil Jimmy Skit","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":17, "length":53,"features":[""]},
-          
-      "Two Words":{"title":"Two Words","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":18, "length":266,"features":["Mos Def","Freeway","The Boys Choir Of Harlem"]},
-          
-      "Through The Wire":{"title":"Through The Wire","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":19, "length":221,"features":[""]},
-          
-      "Family Business":{"title":"Family Business","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":20, "length":278,"features":[""]},
-          
-      "Last Call":{"title":"Last Call","album":1,
-          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
-          "track":21, "length":760,"features":[""]},
-          
-          
-          
-          
-      "Wake Up Mr West":{"title":"Wake Up Mr West","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":1, "length":41,"features":[""]},
       
-      "Heard Em' Say":{"title":"Heard Em' Say","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":2, "length":203,"features":["Adam Levine"]},
           
-      "Touch The Sky":{"title":"Touch The Sky","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":3, "length":236,"features":["Lupe Fiasco"]},
           
-      "Gold Digger":{"title":"Gold Digger","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":4, "length":207,"features":["Jamie Foxx"]},
           
-      "Skit 1":{"title":"Skit 1","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":5, "length":33,"features":[""]},
           
-      "Drive Slow":{"title":"Drive Slow","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":6, "length":272,"features":["Paul Wall", "GLC"]},
+
+
+
+      "Lonely Star":{"title":"Lonely Star","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":1, "length":349,"features":[""]},
+      
+      "Life Of The Party":{"title":"Life Of The Party","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":2, "length":296,"features":[""]},
           
-      "My Way Home":{"title":"My Way Home","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":7, "length":103,"features":["Common"]},
+      "Thursday":{"title":"Thursday","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":3, "length":320,"features":[""]},
           
-      "Crack Music":{"title":"Crack Music","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":8, "length":270,"features":["The Game"]},
+      "The Zone":{"title":"The Zone","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":4, "length":418,"features":["Drake"]},
           
-      "Roses":{"title":"Roses","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":9, "length":245,"features":[""]},
-        
-      "Bring Me Down":{"title":"Bring Me Down","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":10, "length":198,"features":["Brandy"]},
+      "The Birds Pt. 1":{"title":"The Birds Pt. 1","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":5, "length":214,"features":[""]},
           
-      "Addiction":{"title":"Addiction","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":11, "length":267,"features":[""]},
-          
-      "Skit 2":{"title":"Skit 2","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":12, "length":31,"features":[""]},
-        
-      "Diamonds From Sierra Leone - Remix":{"title":"Diamonds From Sierra Leone - Remix","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":13, "length":233,"features":["Jay-Z"]},
-        
-      "We Major":{"title":"We Major","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":14, "length":448,"features":["Nas","Really Doe"]},
-          
-      "Skit 3":{"title":"Skit 3","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":15, "length":24,"features":[""]},
-          
-      "Hey Mama":{"title":"Hey Mama","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":16, "length":305,"features":[""]},
-          
-      "Celebration":{"title":"Celebration","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":17, "length":198,"features":[""]},
-          
-      "Skit 4":{"title":"Skit 4","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":18, "length":78,"features":[""]},
+      "The Birds Pt. 2":{"title":"The Birds Pt. 2","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":6, "length":350,"features":[""]},
           
       "Gone":{"title":"Gone","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":19, "length":333,"features":["Consequence", "Cam'ron"]},
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":7, "length":486,"features":[""]},
           
-      "Diamonds From Sierra Leone - Bonus Track":{"title":"Diamonds From Sierra Leone - Bonus Track","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":20, "length":238,"features":[""]},
+      "Rolling Stone":{"title":"Rolling Stone","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":8, "length":230,"features":[""]},
+          
+      "Heaven Or Las Vegas":{"title":"Heaven Or Las Vegas","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":9, "length":353,"features":[""]},
         
-      "Late":{"title":"Late","album":2,
-          "cover":"https://e.snmc.io/i/1200/s/aa8ccd0c9f83ee8abf9fe6adc724bfbd/7548230",
-          "track":21, "length":230,"features":[""]},
+      "Valerie":{"title":"Valerie","album":2,
+          "cover":"https://en.wikipedia.org/wiki/Thursday_(album)#/media/File:The_Weeknd_-_Thursday.png",
+          "track":10, "length":286,"features":[""]},
+          
       
       
       
       
       
-      "Good Morning":{"title":"Good Morning","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":1, "length":195,"features":[""]},
+
+
+      "D.D.":{"title":"D.D.","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":1, "length":275,"features":[""]},
       
       
-      "Champion":{"title":"Champion","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":2, "length":167,"features":[""]},
+      "Montreal":{"title":"Montreal","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":2, "length":250,"features":[""]},
     
       
-      "Stronger":{"title":"Stronger","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":3, "length":311,"features":[""]},
+      "Outside":{"title":"Outside","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":3, "length":260,"features":[""]},
       
       
-      "I Wonder":{"title":"I Wonder","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":4, "length":243,"features":[""]},
+      "XO / The Host":{"title":"XO / The Host","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":4, "length":443,"features":[""]},
           
-      "Good Life":{"title":"Good Life","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":5, "length":207,"features":["T-Pain"]},
+      "Initiation":{"title":"Initiation","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":5, "length":260,"features":[""]},
       
-      "Can't Tell Me Nothing":{"title":"Can't Tell Me Nothing","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":6, "length":271,"features":[""]},
+      "Same Old Song":{"title":"Same Old Song","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":6, "length":312,"features":["Juicy J"]},
           
-      "Barry Bonds":{"title":"Barry Bonds","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":7, "length":204,"features":["Lil Wayne"]},
+      "The Fall":{"title":"The Fall","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":7, "length":345,"features":[""]},
           
-      "Drunk and Hot Girls":{"title":"Drunk and Hot Girls","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":8, "length":313,"features":["Mos Def"]},
+      "Next":{"title":"Next","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":8, "length":360,"features":[""]},
           
-      "Flashing Lights":{"title":"Flashing Lights","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":9, "length":237,"features":["Dwele"]},
+      "Echoes of Silence":{"title":"Echoes of Silence","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":9, "length":242,"features":[""]},
           
-      "Everthing I Am":{"title":"Everything I Am","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":10, "length":227,"features":["DJ Premier"]},
+      "Till Dawn (Here Comes the Sun)":{"title":"Till Dawn (Here Comes the Sun)","album":3,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/3/34/The_Weeknd_-_Echoes_of_Silence.png",
+          "track":10, "length":319,"features":[""]},
           
-      "The Glory":{"title":"The Glory","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":11, "length":212,"features":[""]},  
-          
-      "Homecoming":{"title":"Homecoming","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":12, "length":203,"features":["Chris Martin"]},
-          
-      "Big Brother":{"title":"Big Brother","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":13, "length":287,"features":[""]},
-          
-      "Good Night":{"title":"Good Night","album":3,
-          "cover":"https://m.media-amazon.com/images/I/71pxGj4RoVS._AC_SL1200_.jpg",
-          "track":14, "length":185,"features":["Mos Def", "Albe Back"]},
-          
-          
-          
-          
-          
-      "Say You Will":{"title":"Say You Will","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":1, "length":377,"features":[""]},
-          
-      "Welcome To Heartbreak":{"title":"Welcome To Heartbreak","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":2, "length":262,"features":["Kid Cudi"]},
       
-      "Heartless":{"title":"Heartless","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":3, "length":211,"features":[""]},
           
-      "Amazing":{"title":"Amazing","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":4, "length":238,"features":["Jeezy"]},
           
-      "Love Lockdown":{"title":"Love Lockdown","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":5, "length":270,"features":[""]},
           
-      "Paranoid":{"title":"Paranoid","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":6, "length":277,"features":["Mr Hudson"]},
           
-      "RoboCop":{"title":"RoboCop","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":7, "length":274,"features":[""]},
+
+
+      "Professional":{"title":"Professional","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":1, "length":368,"features":[""]},
           
-      "Street Lights":{"title":"Street Lights","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":8, "length":189,"features":[""]},
+      "The Town":{"title":"The Town","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":2, "length":307,"features":[""]},
+      
+      "Adaptation":{"title":"Adaptation","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":3, "length":283,"features":[""]},
+          
+      "Love in the Sky":{"title":"Love in the Sky","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":4, "length":270,"features":[""]},
+          
+      "Belong to the World":{"title":"Belong to the World","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":5, "length":307,"features":[""]},
+          
+      "Live For":{"title":"Live For","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":6, "length":224,"features":["Drake"]},
+          
+      "Wanderlust":{"title":"Wanderlust","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":7, "length":306,"features":[""]},
+          
+      "Kiss Land":{"title":"Kiss Land","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":8, "length":455,"features":[""]},
         
-      "Bad News":{"title":"Bad News","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":9, "length":238,"features":[""]},
+      "Pretty":{"title":"Pretty","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":9, "length":375,"features":[""]},
           
-      "See You In My Nightmares":{"title":"See You In My Nightmares","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":10, "length":258,"features":["Lil Wayne"]},
+      "Tears in the Rain":{"title":"Tears in the Rain","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":10, "length":444,"features":[""]},
           
-      "Coldest Winter":{"title":"Coldest Winter","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":11, "length":164,"features":[""]},
+      "Wanderlust (Pharrell Remix)":{"title":"Wanderlust (Pharrell Remix)","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":11, "length":305,"features":[""]},
           
-      "Pinocchio Story":{"title":"Pinocchio Story","album":4,
-          "cover":"https://m.media-amazon.com/images/I/51FvW2ILXTL._SL1200_.jpg",
-          "track":12, "length":361,"features":[""]},
-          
-          
+      "Odd Look":{"title":"Odd Look","album":4,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png",
+          "track":12, "length":252,"features":["Kavinsky"]},
           
           
           
-      "Dark Fantasy":{"title":"Dark Fantasy","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":1, "length":280,"features":["Nicki Minaj"]},
           
-      "Gorgeous":{"title":"Gorgeous","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":2, "length":357,"features":["Kid Cudi", "Raekwon"]},
           
-      "POWER":{"title":"POWER","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":3, "length":292,"features":[""]},
+
+
+
+      "Real Life":{"title":"Real Life","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":1, "length":223,"features":[""]},
           
-      "All Of The Lights (Interlude)":{"title":"All Of The Lights (Interlude)","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":4, "length":62,"features":[""]},
+      "Losers":{"title":"Losers","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":2, "length":281,"features":["Labrinth"]},
+          
+      "Tell Your Friends":{"title":"Tell Your Friends","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":3, "length":334,"features":[""]},
+          
+      "Often":{"title":"Often","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":4, "length":249,"features":[""]},
             
-      "All Of The Lights":{"title":"All Of The Lights","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":5, "length":299,"features":["Rihanna","Fergie","Kid Cudi"]},
+      "The Hills":{"title":"The Hills","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":5, "length":242,"features":[""]},
       
-      "Monster":{"title":"Monster","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":6, "length":378,"features":["Jay-Z","Rick Ross","Nicki Minaj","Bon Iver"]},
+      "Acquainted":{"title":"Acquainted","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":6, "length":348,"features":[""]},
         
-      "So Appalled":{"title":"So Appalled","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":7, "length":397,"features":["Jay-Z", "Pusha T", "CyHy The Prynce","Swizz Beatz","RZA"]},
+      "Can't Feel My Face":{"title":"Can't Feel My Face","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":7, "length":213,"features":[""]},
           
-      "Devil In A New Dress":{"title":"Devil In A New Dress","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":8, "length":351,"features":["Rick Ross"]},
+      "Shameless":{"title":"Shameless","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":8, "length":253,"features":[""]},
           
-      "Runaway":{"title":"Runaway","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":9, "length":537,"features":["Pusha T"]},
+      "Earned It (Fifty Shades of Grey)":{"title":"Earned It (Fifty Shades of Grey)","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":9, "length":277,"features":[""]},
+
+      "In the Night":{"title":"In the Night","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":10, "length":235,"features":[""]},
       
-      "Hell Of A Life":{"title":"Hell Of A Life","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":10, "length":327,"features":[""]},
+      "As You Are":{"title":"As You Are","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":11, "length":340,"features":[""]},
       
-      "Blame Game":{"title":"Blame Game","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":11, "length":469,"features":["John Legend"]},
+      "Dark Times":{"title":"Dark Times","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":12, "length":260,"features":["Ed Sheeran"]},
       
-      "Lost In The World":{"title":"Lost In The World","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":12, "length":256,"features":["Bon Iver"]},
-      
-      "Who Will Survive In America":{"title":"Who Will Survive In America","album":5,
-          "cover":"https://www.boulderweekly.com/wp-content/uploads/2010/10/1199.jpg",
-          "track":13, "length":98,"features":[""]},
+      "Prisoner":{"title":"Prisoner","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":13, "length":274,"features":["Lana Del Rey"]},
+
+      "Angel":{"title":"Angel","album":5,
+          "cover":"https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png",
+          "track":14, "length":377,"features":[""]},    
           
         
         
         
+
+
+
+
       "No Church In The Wild":{"title":"No Church In The Wild","album":6,
           "cover":"https://m.media-amazon.com/images/I/81EkIPgCYkL.jpg",
           "track":1, "length":272,"features":["Jay-Z", "Frank Ocean", "The-Dream"]},
