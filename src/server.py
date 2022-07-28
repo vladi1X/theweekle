@@ -50,6 +50,6 @@ def dated_url_for(endpoint, **values):
 
 
 if __name__ == '__main__':
-    override_url_for('static', filename='mainpage.css')
-
+    #override_url_for('static', filename='mainpage.css')
+    override_url_for()
     app.run(debug=True)
